@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\Weda\source\repos\Upload_File\Upload_File\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/BlazorInputFile" Path="C:\Users\Weda\.nuget\packages\blazorinputfile\0.1.0-preview-00002\build\..\staticwebassets\" />
+</StaticWebAssets>

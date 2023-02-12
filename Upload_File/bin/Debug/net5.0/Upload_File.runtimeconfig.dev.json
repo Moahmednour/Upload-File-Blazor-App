@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Weda\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Weda\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "iGUb8lry5ro5pfWUDw8v5eHD7cAhsNmnu5zLiSxD82B1+tcl8JsTNzO+QeCs2HqARzocM6LFly+Xu06LUmPHcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Weda\\source\\repos\\Upload_File\\Upload_File\\Upload_File.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Weda\\.nuget\\packages\\blazorinputfile\\0.1.0-preview-00002\\blazorinputfile.0.1.0-preview-00002.nupkg.sha512",
+    "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.0.0-preview9.19424.4\\microsoft.aspnetcore.authorization.3.0.0-preview9.19424.4.nupkg.sha512",
+    "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.components\\3.0.0-preview9.19424.4\\microsoft.aspnetcore.components.3.0.0-preview9.19424.4.nupkg.sha512",
+    "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.0.0-preview9.19424.4\\microsoft.aspnetcore.components.analyzers.3.0.0-preview9.19424.4.nupkg.sha512",
+    "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\3.0.0-preview9.19424.4\\microsoft.aspnetcore.components.forms.3.0.0-preview9.19424.4.nupkg.sha512",
+    "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.components.web\\3.0.0-preview9.19424.4\\microsoft.aspnetcore.components.web.3.0.0-preview9.19424.4.nupkg.sha512",
+    "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.metadata\\3.0.0-preview9.19424.4\\microsoft.aspnetcore.metadata.3.0.0-preview9.19424.4.nupkg.sha512",
+    "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.0.0-preview9.19423.4\\microsoft.extensions.dependencyinjection.3.0.0-preview9.19423.4.nupkg.sha512",
+    "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0-preview9.19423.4\\microsoft.extensions.dependencyinjection.abstractions.3.0.0-preview9.19423.4.nupkg.sha512",
+    "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.0-preview9.19423.4\\microsoft.extensions.logging.abstractions.3.0.0-preview9.19423.4.nupkg.sha512",
+    "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.options\\3.0.0-preview9.19423.4\\microsoft.extensions.options.3.0.0-preview9.19423.4.nupkg.sha512",
+    "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0-preview9.19423.4\\microsoft.extensions.primitives.3.0.0-preview9.19423.4.nupkg.sha512",
+    "C:\\Users\\Weda\\.nuget\\packages\\microsoft.jsinterop\\3.0.0-preview9.19423.4\\microsoft.jsinterop.3.0.0-preview9.19423.4.nupkg.sha512"
+  ],
+  "logs": []
+}
